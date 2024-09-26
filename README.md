@@ -10,6 +10,7 @@ This project focuses on analyzing electric vehicles (EVs) in Washington as a ref
 
 ## Usage Guide
 - Cloning Repository: Clone this repository to your local machine with the command: `git clone https://github.com/fadhiljr7/datascience003.git`
+- Install dependencies: Ensure you have Python and Jupyter installed. You can install the required libraries by running: `pip install -r requirements.txt`
 - Open Notebook: Open notebook.ipynb in Jupyter Notebook or Google Colab to see the entire analysis process and visualization results.
 - View Insights: Use the insight.pptx file to get a visual summary of the analysis and key insights.
 - Data: The data.csv file can be used to perform further analysis or verify results with raw data.
